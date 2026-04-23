@@ -3,6 +3,6 @@
 ## 2026-04-23
 
 1.What we worked on
-> /gitignore creat
-> hello.txt 
+> /gitignore creat   
+> hello.txt 생성   
 
